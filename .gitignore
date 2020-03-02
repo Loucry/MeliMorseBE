@@ -1,0 +1,36 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.tomcatplugin
+
+# Intellij
+!.idea/
+.idea/*
+!.idea/runConfigurations/
+*.iml
+*.iws
+*.ipr
+
+# Netbeans
+nb-configuration.xml
+nbactions.xml
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+#Application
+/logs
+dtree_*.log
+
+#Test
+test-output/
+
+# FTP folder
+ftp-inbound/
+
+proyectosBA-DS/src/main/resources/git.properties
